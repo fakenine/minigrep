@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Samy Kacimi <samy.kacimi@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
